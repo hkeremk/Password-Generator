@@ -1,4 +1,4 @@
 # Password Generator
 
-You can generate a strong password with this program. It can be includes lowercase, uppercase,
+You can create a strong password with this program. It can contain lowercase, uppercase,
 number and also symbol.
